@@ -1,0 +1,48 @@
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    width: 100%;
+    min-height: 100%;
+}
+
+body {
+    background-color: darkred;
+}
+
+.taya {
+    background-color: darkgreen;
+    width: 100%;
+    height: 20vh;
+}
+
+.tayaa {
+    background-color: darkblue;
+    width: 100%;
+    height: 20vh;
+}
+
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.yy {
+    background-color: darkorange;
+    width: 200px;
+    height: 40vh;
+
+    position: fixed;
+    top: 0;
+    left: 0;
+}
